@@ -77,17 +77,17 @@ const Index = () => {
         <div className="container mx-auto px-6 relative z-10">
           <div className="max-w-4xl mx-auto text-center animate-fade-in">
             <Badge className="mb-6 bg-primary/20 text-primary border-primary/30 hover:bg-primary/30">
-              Доступен для проектов
+              Открыт для сотрудничества
             </Badge>
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent">
-              Александр Иванов
+              Виолент Сергеев
             </h1>
             <p className="text-2xl md:text-3xl text-muted-foreground mb-8">
-              Full-Stack разработчик & UI/UX дизайнер
+              Business Developer
             </p>
             <p className="text-lg text-muted-foreground mb-12 max-w-2xl mx-auto">
-              Создаю современные веб-приложения с фокусом на пользовательский опыт 
-              и производительность. Превращаю идеи в цифровые решения.
+              Развиваю стратегические партнерства и создаю возможности для роста бизнеса. 
+              Превращаю идеи в успешные проекты через анализ рынка и построение эффективных связей.
             </p>
             <div className="flex gap-4 justify-center">
               <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow">
@@ -107,14 +107,14 @@ const Index = () => {
           <div className="max-w-3xl mx-auto animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold mb-8 text-center">Обо мне</h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Привет! Я занимаюсь разработкой более 5 лет и специализируюсь на создании 
-              современных веб-приложений. Моя страсть — это сочетание красивого дизайна 
-              с функциональным кодом.
+              Привет! Я специализируюсь на развитии бизнеса и построении стратегических 
+              партнерств. За более чем 5 лет работы помог десяткам компаний выйти на новые 
+              рынки и увеличить прибыль через эффективные бизнес-стратегии.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Я работал с компаниями от стартапов до enterprise-уровня, помогая им 
-              воплощать цифровые идеи в жизнь. Постоянно изучаю новые технологии 
-              и методологии для создания лучших продуктов.
+              Мой подход основан на глубоком анализе рынка, выявлении возможностей для роста 
+              и построении долгосрочных отношений с ключевыми партнерами. Я превращаю вызовы 
+              в возможности и создаю устойчивые стратегии развития.
             </p>
           </div>
         </div>
@@ -249,7 +249,7 @@ const Index = () => {
       <footer className="py-8 border-t border-border/50 bg-card/30">
         <div className="container mx-auto px-6">
           <p className="text-center text-muted-foreground">
-            © 2024 Александр Иванов. Все права защищены.
+            © 2024 Виолент Сергеев. Все права защищены.
           </p>
         </div>
       </footer>
